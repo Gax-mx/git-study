@@ -12,7 +12,8 @@ public class App {
     }
 
     public static void testDrink(){
-        System.out.println("drink tea");
+        // windows修改了 方法
+        System.out.println("drink tea2 - windows");
     }
 
 }
